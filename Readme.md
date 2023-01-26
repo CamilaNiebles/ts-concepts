@@ -273,3 +273,7 @@ class Point {
   }
 }
 ```
+
+## Types vs Interfaces
+
+Types and interfaces are a way to define data structures in TS. Both of them can be used to define the properties or characteristics in an entity however, they have a couple of difference and choosing between them it's totally up to the developer.
